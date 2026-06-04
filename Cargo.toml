@@ -1,0 +1,9 @@
+[package]
+name = "ternary-pareto"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+repository = "https://github.com/SuperInstance/ternary-pareto"
+description = "Pareto optimization for ternary agents — multi-objective strategies where you can't maximize everything at once"
+
+[dev-dependencies]
