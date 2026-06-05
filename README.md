@@ -106,3 +106,11 @@ println!("Found {} Pareto-optimal strategies", front.len());
 ## License
 
 MIT
+
+## See Also
+- **ternary-fitness** — related
+- **ternary-scoring** — related
+- **ternary-market** — related
+- **ternary-auction** — related
+- **ternary-optimization** — related
+
